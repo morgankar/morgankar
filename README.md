@@ -13,3 +13,6 @@
 #### <p>🌱Currently learning advanced Javascript and some DSA.</p>
 #### <p>Hobbies include Drawing🎨, watching Anime🐈‍⬛ , listening music🎵! </p>
 </div>
+<hr>
+
+[![Rohan Github Stats](https://github-readme-stats.vercel.app/api?username=realrohankar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
