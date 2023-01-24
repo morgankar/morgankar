@@ -1,3 +1,4 @@
+
 # <div align="center"> Hello - Namaste - Glad to see you here! </div>
 
   <div align="center">
@@ -5,12 +6,12 @@
 ### <p>🍁I'm Rohan, a 22 year old Javascript developer!<p>
  
 ![imageGIF](https://cdn.hashnode.com/res/hashnode/image/upload/v1595331045788/7DTc5AKaw.gif?auto=format,compress&gif-q=60&format=webm)
-### ABOUT 
+## *ABOUT* 
  <hr>
  
 #### <p>👀Into FullStack Web Development. </p>
 #### <p>🌱Currently learning advanced Javascript and some DSA.</p>
-#### <p>Hobbies include Drawing🎨, watching Anime🐈‍⬛ , listening music🎵! </p>
+#### <p>Hobbies include Drawing🎨, watching Anime🐈‍⬛ , listening music🎵! </p> 
 </div>
 <hr>
 
@@ -27,5 +28,5 @@
 ## Thanks for Stopping By
 
 ![https://media.tenor.com/OKJ1NsLL1L4AAAAC/goodbye-see-you.gif](https://31.media.tumblr.com/tumblr_lskiprpVsy1qcwjvso1_400.gif))
-# Sayonara!
+# *Sayonara!*
 </div>
