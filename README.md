@@ -14,7 +14,7 @@
 </div>
 <hr>
 
-[![Rohan Github Stats](https://github-readme-stats.vercel.app/api?username=realrohankar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) ![ergoGIF](https://66.media.tumblr.com/tumblr_m4lgynxK5d1rn95k2o1_500.gif)  <br>  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realrohankar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Rohan Github Stats](https://github-readme-stats.vercel.app/api?username=realrohankar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br>  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realrohankar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
