@@ -17,7 +17,7 @@
 
 <div align="center">
   
-[![Rohan Github Stats](https://github-readme-stats.vercel.app/api?username=realrohankar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=realrohankar&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=realrohankar&theme=radical&border_radius=6.3)](https://git.io/streak-stats)
 
   </div>
