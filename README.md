@@ -3,7 +3,7 @@
 
   <div align="center">
  
-### <p>🍁I'm Rohan, a 22 year old Javascript developer!<p>
+### <p>🍁I'm Rohan, A Javascript developer from India!<p>
  
 ![imageGIF](https://cdn.hashnode.com/res/hashnode/image/upload/v1595331045788/7DTc5AKaw.gif?auto=format,compress&gif-q=60&format=webm)
 ## *ABOUT* 
