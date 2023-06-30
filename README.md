@@ -25,8 +25,4 @@
 
 <div align="center">
  
-## Thanks for Stopping By
 
-![https://media.tenor.com/OKJ1NsLL1L4AAAAC/goodbye-see-you.gif](https://31.media.tumblr.com/tumblr_lskiprpVsy1qcwjvso1_400.gif))
-# *Sayonara!*
-</div>
