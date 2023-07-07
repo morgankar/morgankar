@@ -32,4 +32,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=realrohankar&show_icons=true&locale=en" alt="realrohankar" /></p>
 
+# Blog posts
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
