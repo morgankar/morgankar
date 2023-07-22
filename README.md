@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **realrohankar03outlook.com**
 
-- ⚡ Fun fact **I love panipuri**
+  
 
 ---
 
