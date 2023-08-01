@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/realrohankar" target="blank"><img src="https://img.shields.io/twitter/follow/realrohankar?logo=twitter&style=for-the-badge" alt="realrohankar" /></a> </p>
 
-- 🔭 I’m currently working on [WeDiary](https://github.com/realrohankar/meDiary)
+- 🔭 I’m currently working on Backend
 
 - 🌱 I’m currently learning **MERN stack**
 
