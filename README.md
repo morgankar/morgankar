@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/realrohankar/](https://app.netlify.com/teams/realrohankar/)
 
-- 📝 I regularly write articles on [https://hashnode.com/@realrohankar](https://hashnode.com/@realrohankar)
+- 📝 I sometimes write articles on [https://hashnode.com/@morgankar](https://hashnode.com/@morgankar)
 
 - 📫 How to reach me **realrohankar03outlook.com**
 
