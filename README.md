@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arranyak Kar(Morgan)</h1>
 <h3 align="center">A passionate software developer!</h3>
 
-<img src="https://hips.hearstapps.com/hmg-prod/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realrohankar&label=Profile%20views&color=0e75b6&style=flat" alt="realrohankar" /> </p>
 
