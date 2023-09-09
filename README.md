@@ -29,5 +29,5 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Make your first Javascript  mini-project](https://realrohankar.hashnode.dev/make-your-first-javascript-mini-project)
+- [Make your first Javascript  mini-project](https://morgankar.hashnode.dev/make-your-first-javascript-mini-project)
 <!-- BLOG-POST-LIST:END -->
