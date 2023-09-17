@@ -7,8 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/morganistaken" target="blank"><img src="https://img.shields.io/twitter/follow/morganistaken?logo=twitter&style=for-the-badge" alt="morganistaken" /></a> </p>
 
-- 🔭 I’m currently working on Backend
-
+- 🔭 I’m currently working on social media webapp
 - 🌱 I’m currently learning **MERN stack**
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/realrohankar/](https://app.netlify.com/teams/realrohankar/)
