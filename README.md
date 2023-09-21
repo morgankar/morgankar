@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, You can call me Morgan</h1>
-<h3 align="center">A passionate software developer!</h3>
+<h3 align="center">A passionate software developer in the making!</h3>
 
 
 
