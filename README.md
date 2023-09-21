@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arranyak Kar(Morgan)</h1>
+<h1 align="center">Hi 👋, You can call me Morgan</h1>
 <h3 align="center">A passionate software developer!</h3>
 
 
