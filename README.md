@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 You can call me Morgan</h1>
+<h1 align="center">Hi! You can call me Morgan</h1>
 <h3 align="center">I love coding softwares into existence!</h3>
 
 [![An image of @morgankar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/morgankar)](https://holopin.io/@morgankar)
