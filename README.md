@@ -14,9 +14,3 @@
 - 📝 I sometimes write articles on [https://hashnode.com/@morgankar](https://hashnode.com/@morgankar)
 
 - 📫 How to reach me **realrohankar03outlook.com**
-
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Make your first Javascript  mini-project](https://morgankar.hashnode.dev/make-your-first-javascript-mini-project)
-<!-- BLOG-POST-LIST:END -->
