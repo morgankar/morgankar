@@ -16,6 +16,3 @@
 - ✉️ How to reach me  **realrohankar03outlook.com**
 
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
