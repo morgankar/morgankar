@@ -1,9 +1,7 @@
+![image](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
 <h1 align="center">Hi! You can call me Morgan</h1>
 <h3 align="center">I love coding softwares into existence!</h3>
-
-[![An image of @morgankar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/morgankar)](https://holopin.io/@morgankar)
-
-
 
 <p align="left"> <a href="https://twitter.com/morganistaken" target="blank"><img src="https://img.shields.io/twitter/follow/morganistaken?logo=twitter&style=for-the-badge" alt="morganistaken" /></a> </p>
 
