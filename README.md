@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently building a fullstack Todo App
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/realrohankar/](https://app.netlify.com/teams/realrohankar/)
+<!-- -  👨‍💻 All of my projects are available at -->
 
 - 📝 I sometimes write articles on [https://hashnode.com/@morgankar](https://hashnode.com/@morgankar)
 
