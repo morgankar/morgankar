@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/morganistaken" target="blank"><img src="https://img.shields.io/twitter/follow/morganistaken?logo=twitter&style=for-the-badge" alt="morganistaken" /></a> </p>
 
-- 🔭 I’m currently building a fullstack Todo App
+- 🔭 I’m currently building a fullstack Social media app
 
 <!-- -  👨‍💻 All of my projects are available at -->
 
