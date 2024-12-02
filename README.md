@@ -6,7 +6,7 @@
 
 - 📝 I sometimes write articles on [https://hashnode.com/@morgankar](https://hashnode.com/@morgankar)
 
-- ✉️ How to reach me  **realrohankar03outlook.com**
+- ✉️ How to reach me  **morgankar@protonmail.com**
 
 
 ### 📮Latest Blog Posts 
