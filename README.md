@@ -4,7 +4,7 @@
 
 <!-- -  👨‍💻 All of my projects are available at -->
 
-- 📝 I sometimes write articles on [https://hashnode.com/@morgankar](https://hashnode.com/@morgankar)
+- 📝 I sometimes write articles on [https://hashnode.com/@morgankar](https://morgankar.hashnode.dev/) 
 
 - ✉️ How to reach me  **morgankar@protonmail.com**
 
