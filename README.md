@@ -1,11 +1,21 @@
-<h1 align="center">Hi! You can call me Morgan</h1>
+# Hey, I'm Morgan Kar
 
+Frontend developer-I make your websites look awesome and functional.
+## What I Do
 
-<!-- -  👨‍💻 All of my projects are available at -->
+- Frontend Development  
+- UI/UX Design in Figma  
+- Building modern web apps  
 
-- 📝 I sometimes write articles on [https://hashnode.com/@morgankar](https://morgankar.hashnode.dev/) 
+## Tech Stack
 
-- ✉️ How to reach me  **morgankar@protonmail.com**
+HTML • CSS • JavaScript • React • Tailwind • Figma
+
+## Let's Connect
+
+- [Twitter](https://twitter.com/morgankarx)  
+- [Email](mailto:morgankar@protonmail.com)
+
 
 
 ### 📮Latest Blog Posts 
