@@ -10,4 +10,6 @@
 
 ### 📮Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- `2025` | [Solving the ENOSPC File Watcher Error in Linux Development Environments](https://dev.to/morgankar/solving-the-enospc-file-watcher-error-in-linux-development-environments-544j)  
+
 <!-- BLOG-POST-LIST:END -->
