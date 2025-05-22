@@ -4,9 +4,8 @@ Frontend developer-I make your websites look awesome and functional.
 ## What I Do
 
 - Frontend Development  
-- UI/UX Design in Figma
+- UI/UX Design 
 - 3D Modelling 
-- Building modern web apps  
 
 ## Tech Stack
 
