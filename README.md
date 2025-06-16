@@ -7,10 +7,6 @@ Frontend developer-I make your websites look awesome and functional.
 - UI/UX Design 
 - 3D Modelling 
 
-## Tech Stack
-
-HTML • CSS • JavaScript • React • Tailwind • Figma
-
 
 ### 📮Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
