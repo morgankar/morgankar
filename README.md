@@ -1,5 +1,4 @@
-# Hey, I'm Morgan Kar
-
+# Hey, I'm Morgan.
 Frontend developer-I make your websites look awesome and functional.
 ## What I Do
 
